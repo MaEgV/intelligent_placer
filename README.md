@@ -72,6 +72,8 @@
 
 ## Пример
 Пример последовательной укладки со сходящейся функцией потерь
+
+
 ![alt text](https://github.com/MaEgV/intelligent_placer/blob/main/example.gif)
 
 
